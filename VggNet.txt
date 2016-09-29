@@ -10,7 +10,7 @@ weight_decay: 0.0005\
 stepsize: 20000\
 snapshot: 10000\
 
-layer \{\'85\
+layer \{
     phase: TRAIN\
     batch_size: 32\
   phase: TEST\
